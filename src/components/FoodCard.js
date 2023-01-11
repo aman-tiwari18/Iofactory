@@ -22,7 +22,7 @@ const FoodCard = () => {
               <span>
                 <img src={star} alt='star' className='h-[20px]'/>
               </span>
-              <span>rating</span>
+              <span>rated</span>
             </div>
           </div>
         </div>

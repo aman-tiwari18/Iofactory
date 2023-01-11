@@ -11,7 +11,7 @@ const ChefCard = (props) => {
         <div className='text-xl font-bold py-2'>{props.name}</div>
         <div className='flex items-center  justify-center text-[12px]'>{props.title}</div>
         
-    </div>
+    </div>  
   )
 }
 

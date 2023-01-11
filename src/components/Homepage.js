@@ -10,7 +10,10 @@ import fcard5 from "../assets/food-card5.png"
 const Homepage = () => {
   return (
     <div className=''>
-        <div className='py-4 text-3xl justify-center items-center flex '>VARIETIES</div>
+        <div className='py-8 text-3xl justify-center items-center flex tracking-widest gap-3 flex-col'>
+          VARIETIES
+          <hr className='h-[3px] bg-gray-200 border-0 rounded-md w-14 shadow-xl dark:bg-black'/>
+        </div>
         <div className='flex justify-between px-12'>
           <div>
               <FoodCard/>
