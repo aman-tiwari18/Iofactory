@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Iofactory-figma-assignment/static/css/main.186d9b85.css",
-    "main.js": "/Iofactory-figma-assignment/static/js/main.3771add0.js",
+    "main.css": "/Iofactory-figma-assignment/static/css/main.c8ecf279.css",
+    "main.js": "/Iofactory-figma-assignment/static/js/main.46198dba.js",
     "static/media/guide-banner.png": "/Iofactory-figma-assignment/static/media/guide-banner.cdbada5746cc7fa7e1bc.png",
     "static/media/food-card1.png": "/Iofactory-figma-assignment/static/media/food-card1.ab1e8c6aaba601694c5c.png",
     "static/media/chefBackground.png": "/Iofactory-figma-assignment/static/media/chefBackground.9bf1a3b204dae23b314e.png",
@@ -18,11 +18,11 @@
     "static/media/food-guide2.png": "/Iofactory-figma-assignment/static/media/food-guide2.a89d738fb1f1449528bb.png",
     "static/media/company-name.png": "/Iofactory-figma-assignment/static/media/company-name.9f473057b06571686e9c.png",
     "index.html": "/Iofactory-figma-assignment/index.html",
-    "main.186d9b85.css.map": "/Iofactory-figma-assignment/static/css/main.186d9b85.css.map",
-    "main.3771add0.js.map": "/Iofactory-figma-assignment/static/js/main.3771add0.js.map"
+    "main.c8ecf279.css.map": "/Iofactory-figma-assignment/static/css/main.c8ecf279.css.map",
+    "main.46198dba.js.map": "/Iofactory-figma-assignment/static/js/main.46198dba.js.map"
   },
   "entrypoints": [
-    "static/css/main.186d9b85.css",
-    "static/js/main.3771add0.js"
+    "static/css/main.c8ecf279.css",
+    "static/js/main.46198dba.js"
   ]
 }
